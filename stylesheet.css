@@ -1,0 +1,98 @@
+body {
+  color: #333;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: #efefef;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.container {
+  /* background-color: rgba(0, 255, 242, 0.822); */
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+}
+
+.icon img {
+  border-radius: 50%;
+  border-width: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.info {
+  /* background-color: tomato; */
+  margin-left: 48px;
+}
+
+.info h1 {
+  font-weight: normal;
+  font-size: 24px;
+  margin: 0;
+}
+
+.info p {
+  margin: 0px;
+  margin-bottom: 16px;
+}
+
+.info ul {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+}
+
+.info ul li {
+  margin-left: 10px;
+}
+
+.from {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+
+.from h1 {
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.from h2 {
+  font-weight: normal;
+}
+
+.from p {
+  line-height: 1.8;
+}
+
+.belonging {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin=bottom: 60px;
+}
+
+.belonging h1 {
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.belonging h2 {
+  font-weight: normal;
+}
+
+.belonging p {
+  line-height: 1.8;
+}
